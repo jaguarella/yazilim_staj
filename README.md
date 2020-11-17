@@ -1,0 +1,2 @@
+# yazilim
+ staj_proje
